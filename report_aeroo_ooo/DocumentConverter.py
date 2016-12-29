@@ -38,14 +38,14 @@ except ImportError:
 
 import uno
 import unohelper
-from com.sun.star.beans import PropertyValue
-from com.sun.star.uno import Exception as UnoException
-from com.sun.star.connection import NoConnectException, ConnectionSetupException
-from com.sun.star.beans import UnknownPropertyException
-from com.sun.star.lang import IllegalArgumentException
-from com.sun.star.io import XOutputStream
-from com.sun.star.io import IOException
-from tools.translate import _
+#from com.sun.star.beans import PropertyValue
+#from com.sun.star.uno import Exception as UnoException
+#from com.sun.star.connection import NoConnectException, ConnectionSetupException
+#from com.sun.star.beans import UnknownPropertyException
+#from com.sun.star.lang import IllegalArgumentException
+#from com.sun.star.io import XOutputStream
+#from com.sun.star.io import IOException
+#from tools.translate import _
 
 logger = logging.getLogger(__name__)
 
